@@ -1,0 +1,95 @@
+/* 
+Paleta de colores
+primary     color: #023047;
+secundary   color: #219ebc;
+info color: #ffb703;
+danger  color: #fb8500;
+*/
+
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 95%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+.logo {
+    display: block;
+    font-size: 3rem;
+    padding: 1em;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: #023047;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0.5em;
+    margin: 0 0.1em;
+    border-radius: 0.5em;
+}
+
+.btn-primary {
+    background-color: #023047;
+    color: white;
+}
+.btn-secondary {
+    background-color: #219ebc;
+    color: white;
+}
+.btn-danger {
+    background-color: #fb8500;
+    color: black;
+}
+.btn-info {
+    background-color: #ffb703;
+    color: black;
+}
+
+.card {
+    width: 20rem;
+    overflow: hidden;
+    background-color: #023047;
+    color: white;
+    border-radius: 0.5em;
+}
+
+.card-img {
+    width: 100%;
+}
+
+.card-body {
+    padding: 1em;
+
+}
+
+.card-body h5 {
+    font-size: 1.5rem;
+    margin: 1.5rem 0;
+    font-weight: 900;
+}
+
+.card-body p {
+    font-weight: 300;
+}
