@@ -1,0 +1,23 @@
+h1 {
+    color:#E9D5CA;
+    background-color: rgba(159, 56, 255, 0.514);
+}
+
+p {
+    color:#4D4C7D;
+}
+
+h3 {
+    color: rgba(255, 56, 99, 0.751);
+}
+#encabezado {
+    color: aqua;
+}
+#encabezado-seis {
+    color: #4D4C7D;
+}
+
+.danger {
+    color:#C2DED1;
+    font-size: 30px;
+}
