@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas a <App /> Deberia hacer snapshot con el componente 1`] = `
+<div>
+  <h1>
+    Practica para pruebas
+  </h1>
+  <h2>
+    Insertando pruebas a componentes con mi blog
+  </h2>
+</div>
+`;
